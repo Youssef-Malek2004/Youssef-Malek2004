@@ -211,3 +211,5 @@ Hybrid **GraphRAG** over a **Neo4j** knowledge graph: spaCy NLU + intent classif
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2575fc,100:6a11cb&height=120&section=footer" alt="footer"/>
 
 <div align="center"><sub>✨ Thanks for visiting — let's build something great together.</sub></div>
+
+<!-- profile readme -->
