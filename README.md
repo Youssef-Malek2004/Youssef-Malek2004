@@ -197,7 +197,6 @@ Hybrid **GraphRAG** over a **Neo4j** knowledge graph: spaCy NLU + intent classif
 <!-- ║                       CONTRIBUTION SNAKE                               ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
 
-<!-- SNAKE:START — enabled once the snake.yml workflow has run once and created the `output` branch
 <div align="center">
 
 <picture>
@@ -207,7 +206,6 @@ Hybrid **GraphRAG** over a **Neo4j** knowledge graph: spaCy NLU + intent classif
 </picture>
 
 </div>
-SNAKE:END -->
 
 <!-- footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2575fc,100:6a11cb&height=120&section=footer" alt="footer"/>
